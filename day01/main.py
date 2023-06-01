@@ -1,3 +1,4 @@
+# To practice print
 print("Day 1 - Python Print Function")
 print("The function is declared like this:")
 print("print('what to print')")
@@ -7,9 +8,11 @@ print("String Concatenation is done with the \"+\" sign.")
 print('e.g. print("Hello " + "world")')
 print("New lines can be created with a backslash and n.")
 
+# to practice input function
 name = input('What is your name? ')
 print(len(name))
 
+# Swap the input varibles
 # 🚨 Don't change the code below 👇
 a = input("a: ")
 b = input("b: ")
@@ -27,6 +30,9 @@ a = c
 # 🚨 Don't change the code below 👇
 print("a: " + a)
 print("b: " + b)
+
+
+# Create a Band name generator with print()
 
 #1. Create a greeting for your program.
 print('Welcome to Band Name Generator')
