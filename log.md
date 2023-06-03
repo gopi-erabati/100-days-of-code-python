@@ -11,10 +11,24 @@ Way to go 100DaysOfCode!!!
 
 **Link to work**: [day01](day01/main.py)
 
-### Day 02: June 2, 2023 
+### Day 02: June 2, 2023 (Data types and String manipulation)
 
-**Today's Progress**:
+**Today's Progress**: Learnt about data types and string manipulations. 
+Round of float and how to format float using f-strings ({a:.2f}). The 
+interesting thing is Python stores floating point as base 2 binary fractions.
+So 0.1 is approximation of 1/10 in Python.
+Here, 0.1 + 0.1 + 0.1 == 0.3 is False !!!
 
-**Thoughts**:
+**Thoughts**: Learnt a new thing about how Python stores floats as base 2 
+(binary) fractions.
 
-**Link to work**: 
+**Link to work**: [day02](day02/main.py)
+
+### Day 03: June 3, 2023 (Control flow and logical operators)
+
+**Today's Progress**: If/else, even/odd number test, nested if and elif, 
+leap year is interesting, pizza bill, logical operators
+
+**Thoughts**: 
+
+**Link to work**: [day03](day03/main.py)
