@@ -29,6 +29,24 @@ Here, 0.1 + 0.1 + 0.1 == 0.3 is False !!!
 **Today's Progress**: If/else, even/odd number test, nested if and elif, 
 leap year is interesting, pizza bill, logical operators
 
-**Thoughts**: 
+**Thoughts**: old stuff of conditional statements!
 
 **Link to work**: [day03](day03/main.py)
+
+### Day 04: June 4, 2023 (Randomization and Python Lists)
+
+**Today's Progress**: Mersenne Twister is a general-purpose pseudorandom 
+number generator (PRNG) developed in 1997. 
+
+From a random see, we multiply by itself and select the half of the result 
+as the next seed. pseudo random gen repeats itself after a period. For a 2 
+digit seed it can generate 100 samples, for 3 digit it can generate 1000 
+samples and so on. So as processing of computers increases we need to 
+increase seed size for not to repeat.
+
+Index of list is an offset basically.
+
+**Thoughts**: *Programming is Open Book Exam*. Rock, paper and scissors was 
+interesting!
+
+**Link to work**: [day04](day04/main.py)
