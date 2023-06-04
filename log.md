@@ -38,7 +38,7 @@ leap year is interesting, pizza bill, logical operators
 **Today's Progress**: Mersenne Twister is a general-purpose pseudorandom 
 number generator (PRNG) developed in 1997. 
 
-From a random see, we multiply by itself and select the half of the result 
+From a random seed, we multiply by itself and select the half of the result 
 as the next seed. pseudo random gen repeats itself after a period. For a 2 
 digit seed it can generate 100 samples, for 3 digit it can generate 1000 
 samples and so on. So as processing of computers increases we need to 
