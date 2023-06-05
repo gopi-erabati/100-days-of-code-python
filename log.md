@@ -60,3 +60,12 @@ join() only accepts strings and outputs string. So it can't be applied on lists 
 **Thoughts**: Loops in Python are very helpful. Remember String concatenation!
 
 **Link to work**: [day05](day05/main.py)
+
+### Day 06: June 6, 2023 (Functions, While loops)
+
+**Today's Progress**: Reeborgs world: nice tutorial for Functions! 
+
+
+**Thoughts**: Use For loops when you need to do something with the items in the loop. Careful with While loop!
+
+**Link to work**: [day06](day06/main.py)
