@@ -50,3 +50,13 @@ Index of list is an offset basically.
 interesting!
 
 **Link to work**: [day04](day04/main.py)
+
+### Day 05: June 5, 2023 (Python Loops)
+
+**Today's Progress**: For loops for avg and high score w/o sum(), len() or max(). Range keyword. Sum of even numbers. FizzBuzz challenge! Password generator
+
+join() only accepts strings and outputs string. So it can't be applied on lists to join lists! 
+
+**Thoughts**: Loops in Python are very helpful. Remember String concatenation!
+
+**Link to work**: [day05](day05/main.py)
