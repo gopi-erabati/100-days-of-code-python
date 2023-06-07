@@ -69,3 +69,21 @@ join() only accepts strings and outputs string. So it can't be applied on lists 
 **Thoughts**: Use For loops when you need to do something with the items in the loop. Careful with While loop!
 
 **Link to work**: [day06](day06/main.py)
+
+### Day 07: June 7, 2023 (Hangman challenge)
+
+**Today's Progress**: Created Hnagman challenge using loops and conditional 
+statements. Interesting one!
+
+**Thoughts**: To clear teminal use os.system('clear')
+
+**Link to work**: [day07](day07/main.py)
+
+### Day 08: June 8, 2023 (Hangman challenge)
+
+**Today's Progress**: Created Hnagman challenge using loops and conditional 
+statements. Interesting one!
+
+**Thoughts**: To clear teminal use os.system('clear')
+
+**Link to work**: [day08](day08/main.py)
