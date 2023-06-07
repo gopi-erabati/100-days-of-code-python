@@ -75,15 +75,15 @@ join() only accepts strings and outputs string. So it can't be applied on lists 
 **Today's Progress**: Created Hnagman challenge using loops and conditional 
 statements. Interesting one!
 
-**Thoughts**: To clear teminal use os.system('clear')
+**Thoughts**: To clear terminal use os.system('clear')
 
 **Link to work**: [day07](day07/main.py)
 
-### Day 08: June 8, 2023 (Hangman challenge)
+### Day 08: June 8, 2023 (Functions with Input)
 
-**Today's Progress**: Created Hnagman challenge using loops and conditional 
-statements. Interesting one!
+**Today's Progress**: Parameter is the name of the data and Argument is the 
+actual data passed to a function. Positional and Keyword arguments.
 
-**Thoughts**: To clear teminal use os.system('clear')
+**Thoughts**:
 
 **Link to work**: [day08](day08/main.py)
