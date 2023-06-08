@@ -82,8 +82,20 @@ statements. Interesting one!
 ### Day 08: June 8, 2023 (Functions with Input)
 
 **Today's Progress**: Parameter is the name of the data and Argument is the 
-actual data passed to a function. Positional and Keyword arguments.
+actual data passed to a function. Positional and Keyword arguments. Prime 
+number checker. caesar cipher encrypt and decrypt using functions!
 
-**Thoughts**:
+**Thoughts**: Interesting work and going good!
 
 **Link to work**: [day08](day08/main.py)
+
+
+### Day 09: June 9, 2023 (Dictionaries, Nesting and Secret Auction)
+
+**Today's Progress**: Parameter is the name of the data and Argument is the 
+actual data passed to a function. Positional and Keyword arguments. Prime 
+number checker. caesar cipher encrypt and decrypt using functions!
+
+**Thoughts**: Interesting work and going good!
+
+**Link to work**: [day09](day09/main.py)
