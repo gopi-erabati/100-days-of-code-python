@@ -92,10 +92,12 @@ number checker. caesar cipher encrypt and decrypt using functions!
 
 ### Day 09: June 9, 2023 (Dictionaries, Nesting and Secret Auction)
 
-**Today's Progress**: Parameter is the name of the data and Argument is the 
-actual data passed to a function. Positional and Keyword arguments. Prime 
-number checker. caesar cipher encrypt and decrypt using functions!
+**Today's Progress**: dictionary and alterations with it. Bidding with 
+looping thru dicts.
 
-**Thoughts**: Interesting work and going good!
+For loop of dictionary gives only 'keys'!!!
+
+**Thoughts**: Pythontutor is interesting website where we can get live help 
+and we can also help others! Interesting!!!!
 
 **Link to work**: [day09](day09/main.py)
