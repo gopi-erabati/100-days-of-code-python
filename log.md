@@ -101,3 +101,12 @@ For loop of dictionary gives only 'keys'!!!
 and we can also help others! Interesting!!!!
 
 **Link to work**: [day09](day09/main.py)
+
+### Day 10: June 10, 2023 (Functions with outputs)
+
+**Today's Progress**: Functions with output, days in month using leap year 
+function. Building calculator!
+
+**Thoughts**: Be careful with recursion!
+
+**Link to work**: [day10](day10/main.py)
