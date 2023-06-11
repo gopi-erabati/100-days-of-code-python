@@ -110,3 +110,11 @@ function. Building calculator!
 **Thoughts**: Be careful with recursion!
 
 **Link to work**: [day10](day10/main.py)
+
+### Day 11: June 11, 2023 (Blackjack Capstone Project)
+
+**Today's Progress**: Capstone project with all the things learnt in 10 days!
+
+**Thoughts**: Be careful with recursion!
+
+**Link to work**: [day11](day11/main.py)
