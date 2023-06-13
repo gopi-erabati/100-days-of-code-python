@@ -114,7 +114,31 @@ function. Building calculator!
 ### Day 11: June 11, 2023 (Blackjack Capstone Project)
 
 **Today's Progress**: Capstone project with all the things learnt in 10 days!
+Loops, functions, conditional statements!
 
-**Thoughts**: Be careful with recursion!
+**Thoughts**: Interesting and fascinating project!
 
 **Link to work**: [day11](day11/main.py)
+
+### Day 12: June 12, 2023 (Scope and Number guessing)
+
+**Today's Progress**: NameSpace: Local and Global scope!
+
+There is no Block scope in Python! Variables created inside a function has 
+a local scope, but variables created in if, for, while blocks doesn;t have 
+block scope.
+
+Modify a global variable by defining with 'global' keyword inside local 
+scope of a function!
+
+**Thoughts**: Number guess game was good!
+
+**Link to work**: [day12](day12/main.py)
+
+### Day 13: June 13, 2023 (Debugging)
+
+**Today's Progress**: Debug the code thinking that you're the interpreter.
+
+**Thoughts**: 'Print' is your friend!
+
+**Link to work**: [day13](day13/main.py)
