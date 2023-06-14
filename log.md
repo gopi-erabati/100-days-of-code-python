@@ -142,3 +142,20 @@ scope of a function!
 **Thoughts**: 'Print' is your friend!
 
 **Link to work**: [day13](day13/main.py)
+
+### Day 14: June 14, 2023 (Higher Lower Game)
+
+**Today's Progress**: Higher Lower game is interesting.
+
+**Thoughts**: Need to improve: optimization of code!
+
+**Link to work**: [day14](day14/main.py)
+
+### Day 15: June 15, 2023 (Coffee Machine Problem)
+
+**Today's Progress**: Coffee Machine problem is very interesting to solve. 
+Used if-else, functions, loops, dictionaries very well!
+
+**Thoughts**: Consistency and persistence is the key!
+
+**Link to work**: [day15](day15/main.py)
