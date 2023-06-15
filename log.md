@@ -72,7 +72,7 @@ join() only accepts strings and outputs string. So it can't be applied on lists 
 
 ### Day 07: June 7, 2023 (Hangman challenge)
 
-**Today's Progress**: Created Hnagman challenge using loops and conditional 
+**Today's Progress**: Created Hangman challenge using loops and conditional 
 statements. Interesting one!
 
 **Thoughts**: To clear terminal use os.system('clear')
@@ -171,6 +171,14 @@ A class is a blueprint/template for creating different object.
 An object is an instance of a class!
 PyPI - Python Package Index.
 
-**Thoughts**: 
+**Thoughts**: OOP is a saviour!
 
 **Link to work**: [day16](day16/main.py)
+
+### Day 17: June 17, 2023 (Benefit of OOP)
+
+**Today's Progress**: PascalCase, snake_case, camelCase. Quiz game with OOP. 
+
+**Thoughts**: 
+
+**Link to work**: [day17](day17/main.py)
