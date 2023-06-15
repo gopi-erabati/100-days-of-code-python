@@ -156,6 +156,21 @@ scope of a function!
 **Today's Progress**: Coffee Machine problem is very interesting to solve. 
 Used if-else, functions, loops, dictionaries very well!
 
+Hold Ctrl + Alt for multiple line editing in Pycharm (Linux)
+
 **Thoughts**: Consistency and persistence is the key!
 
 **Link to work**: [day15](day15/main.py)
+
+### Day 16: June 16, 2023 (OOP)
+
+**Today's Progress**: Procedural programming is complex. 
+Attributes are variables of a class, methods are functions of a class! 
+(they're not free floating, so given a different name!).
+A class is a blueprint/template for creating different object.
+An object is an instance of a class!
+PyPI - Python Package Index.
+
+**Thoughts**: 
+
+**Link to work**: [day16](day16/main.py)

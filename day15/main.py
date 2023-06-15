@@ -36,8 +36,7 @@ def is_resources_available(choice):
     for ingred_menu, ingred_val in MENU[choice]['ingredients'].items():
         if resources[ingred_menu] < ingred_val:
             return False, ingred_menu
-        else:
-            return True, None
+    return True, None
 
 
 # function to check if transaction is successful
